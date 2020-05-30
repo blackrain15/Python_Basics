@@ -22,7 +22,6 @@ cont_left = z - (cargo_h)*(cont_per_stack)
 cont_loc_y = math.floor((cont_left-1)/cont_per_row)
 cont_loc_x = int(cont_left - (cont_loc_y * cont_per_row)-1)
 
-
 output = (cont_loc_x, cont_loc_y, cargo_h)
 
 print(output)
