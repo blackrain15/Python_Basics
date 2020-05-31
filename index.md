@@ -1,3 +1,5 @@
+# Basics of Python : Learning with Code Challenges
+
 The project intends to offer some basic coding challenges for Python along with the solutions. The coding challenges span across a wide spectrum of Python as a programming language - including variables, control structures, loops, Lists, Tuples and Files handling.
 
 ### **Variables & Operators :** 
