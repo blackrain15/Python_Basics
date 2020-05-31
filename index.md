@@ -1,7 +1,3 @@
-<head>
-<meta name="google-site-verification" content="YAgJgLxlWixAwNvuqnC0H0asSDY2OOZQJklFyACM5t0" />
-</head>
-
 The project intends to offer some basic coding challenges for Python along with the solutions. The coding challenges span across a wide spectrum of Python as a programming language - including variables, control structures, loops, Lists, Tuples and Files handling.
 
 ### **Variables & Operators :** 
@@ -47,3 +43,6 @@ The project intends to offer some basic coding challenges for Python along with 
 
 The solutions to the above listed sample problems can be referred from the code repo mentioned below: <BR>
 * [Solutions](https://github.com/blackrain15/Python_Basics-:-Solutions)
+
+
+google-site-verification: googlef822cbf17817a63f.html
