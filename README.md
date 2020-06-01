@@ -44,4 +44,4 @@ The project intends to offer some basic coding challenges for Python along with 
 ***
 
 The solutions to the above listed sample problems can be referred from the code repo mentioned below: <BR>
-* [Solutions](https://github.com/blackrain15/Python_Basics-:-Solutions)
+* [Solutions](https://github.com/blackrain15/Python_Basics)
